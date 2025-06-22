@@ -1,16 +1,13 @@
-## Hi there 👋
+# Languages
 
-<!--
-**Devistral/Devistral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Novice
+![C](https://img.shields.io/badge/C-%2342656E?logo=c&logoColor=%20%23FFF)
+![C++](https://img.shields.io/badge/C%2B%2B-%2342656E?logo=c%2B%2B&logoColor=%20%23FFF)
+![C#](https://img.shields.io/badge/C%23-%2342656E?logo=c%23&logoColor=%20%23FFF)
+![Java](https://img.shields.io/badge/Java-%2342656E)
 
-Here are some ideas to get you started:
+### Learning
+![Lua](https://img.shields.io/badge/Lua-%2342656E?logo=lua&logoColor=%20%23FFF)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Used a bit but never fully learned it
+![Haskell](https://img.shields.io/badge/Haskell-%20%2342656E?logo=haskell)
