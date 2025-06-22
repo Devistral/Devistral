@@ -1,6 +1,6 @@
 # Languages
 
-### Novice
+### Intermediate
 ![C](https://img.shields.io/badge/C-%2342656E?logo=c&logoColor=%20%23FFF)
 ![C++](https://img.shields.io/badge/C%2B%2B-%2342656E?logo=c%2B%2B&logoColor=%20%23FFF)
 ![C#](https://img.shields.io/badge/C%23-%2342656E?logo=c%23&logoColor=%20%23FFF)
